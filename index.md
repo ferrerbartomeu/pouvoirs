@@ -1,8 +1,9 @@
-## Bienvenue
+## Jérémie Ferrer-Bartomeu
 
-You can use the [editor on GitHub](https://github.com/ferrerbartomeu/pouvoirs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ce site centralise mes projets de recherche, d'enseignement, de médiation et de publications en cours. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Plusieurs plateformes reprennent les éléments contenus ici et notamment : 
+["Me Racontez Pas d'Histoires. Podcasts d'histoire et sciences sociales"](https://mrpdhistoires.com/) 
 
 ### Markdown
 
