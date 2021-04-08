@@ -14,11 +14,11 @@ Mes publications sont consultables en _open access_ sur [HAL](https://cv.archive
 
 Mes laboratoires de rattachement sont les suivants : 
 
-- le [Centre d'études supérieures de la Renaissance](https://cesr.cnrs.fr/chercheurs/j%C3%A9r%C3%A9mie-ferrer-bartomeu-0) à Tours; 
+- le [Centre d'études supérieures de la Renaissance](https://cesr.cnrs.fr/chercheurs/j%C3%A9r%C3%A9mie-ferrer-bartomeu-0) à Tours ; 
 
-- le [Centre Jean-Mabillon](http://www.chartes.psl.eu/fr/jeremie-ferrer-bartomeu) de l'École nationale des chartes;
+- le [Centre Jean-Mabillon](http://www.chartes.psl.eu/fr/jeremie-ferrer-bartomeu) de l'École nationale des chartes à Paris ;
 
-- le [Centre européen des études républicaines](http://cedre.univ-psl.fr/presentation/equipe/) à Paris.
+- le [Centre européen des études républicaines](http://cedre.univ-psl.fr/presentation/equipe/) de l'École normale supérieure-Paris Sciences et Lettres.
 
 ## Présentation
 
