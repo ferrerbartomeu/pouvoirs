@@ -4,7 +4,8 @@ Ce site centralise mes projets de _recherche_, d'_enseignement_, de _médiation_
 
 Plusieurs __plateformes__ reprennent les éléments contenus ici : 
 
-- la plateforme de podcasts et de documentaires que j'anime : [Me Racontez Pas d'Histoires. Podcasts d'histoire et sciences sociales](https://mrpdhistoires.com/) ;
+- la plateforme de podcasts et de documentaires que j'anime : 
+[Me Racontez Pas d'Histoires. Podcasts d'histoire et sciences sociales](https://mrpdhistoires.com/) ;
 
 - mon carnet de recherche, dédié au [séminaire 2018-2019](https://ahmuf.hypotheses.org/7199) qui s'est tenu à l'École nationale des chartes et qui se poursuit désormais sous une forme plus personnelle ["Pouvoirs. La République européenne des bureaux. Écrits, pouvoirs et représentations de la modernité en Europe](https://pouvoirs.hypotheses.org/) ;
 
